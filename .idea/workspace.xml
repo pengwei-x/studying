@@ -4,19 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/demo/src/main/java/VMProblem/demo01.java" line="18" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="508b17aa-f5e9-4a5d-810c-fdf9c29a97d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/VMProblem/demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/netty/NioServer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/算法/LeetCode02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/算法/LeetCode03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/线程/Interrupted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/线程/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/javacore/接口和lambda/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/javacore/接口和lambda/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/javacore/接口和lambda/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/javacore/接口和lambda/Test01.class" afterDir="false" />
-    </list>
+    <list default="true" id="508b17aa-f5e9-4a5d-810c-fdf9c29a97d6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +21,7 @@
     <session id="1909782113">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.2" value="3" />
@@ -57,55 +45,19 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="933" />
-          <entry key="txt" value="24" />
+          <entry key="txt" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="933" />
-          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="PLAIN_TEXT" value="47" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/NioServer3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2116">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#4644#4645#0" expanded="true" />
-                <element signature="e#4690#4691#0" expanded="true" />
-                <element signature="e#4675#4676#0" expanded="true" />
-                <element signature="e#4721#4722#0" expanded="true" />
-                <element signature="e#4767#4768#0" expanded="true" />
-                <element signature="e#4812#4813#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/io/IOException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/nio/channels/SelectionKey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="266" column="28" selection-start-line="266" selection-start-column="28" selection-end-line="266" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -171,6 +123,10 @@
           <expand>
             <path>
               <item name="studying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studying" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studying" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -190,6 +146,23 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="IOException" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="studying" type="b2602c69:ProjectViewProjectNode" />
@@ -198,6 +171,25 @@
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="channels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studying" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="channels" type="462c0819:PsiDirectoryNode" />
+              <item name="SelectionKey" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -210,7 +202,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574903769626" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574903789247" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -333,7 +325,7 @@
       <workItem from="1573813670899" duration="1680000" />
       <workItem from="1573886793804" duration="2000000" />
       <workItem from="1574128152714" duration="1426000" />
-      <workItem from="1574850874101" duration="1126000" />
+      <workItem from="1574850874101" duration="1246000" />
     </task>
     <task id="LOCAL-00001" summary="2019年11月8日15:47:16">
       <created>1573199245127</created>
@@ -342,11 +334,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573199245127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2019年11月28日09:15:52">
+      <created>1574903803198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574903803198</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16505000" />
+    <option name="totallyTimeSpent" value="16625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -360,7 +359,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41091314" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41091314" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -372,7 +371,7 @@
       <window_info anchor="bottom" id="Statistic" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32962137" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32935154" />
+      <window_info anchor="bottom" id="Messages" order="14" visible="true" weight="0.32850778" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -392,7 +391,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019年11月8日15:47:16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019年11月8日15:47:16" />
+    <MESSAGE value="2019年11月28日09:15:52" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019年11月28日09:15:52" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -544,10 +544,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/nio/channels/SelectionKey.java">
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/NioServer3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="266" column="28" selection-start-line="266" selection-start-column="28" selection-end-line="266" selection-end-column="28" />
+        <state relative-caret-position="1035">
+          <caret line="111" column="41" lean-forward="true" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4644#4645#0" expanded="true" />
+            <element signature="e#4690#4691#0" expanded="true" />
+            <element signature="e#4675#4676#0" expanded="true" />
+            <element signature="e#4721#4722#0" expanded="true" />
+            <element signature="e#4767#4768#0" expanded="true" />
+            <element signature="e#4812#4813#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -558,18 +567,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/netty/NioServer3.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/nio/channels/SelectionKey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2116">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#4644#4645#0" expanded="true" />
-            <element signature="e#4690#4691#0" expanded="true" />
-            <element signature="e#4675#4676#0" expanded="true" />
-            <element signature="e#4721#4722#0" expanded="true" />
-            <element signature="e#4767#4768#0" expanded="true" />
-            <element signature="e#4812#4813#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="266" column="28" selection-start-line="266" selection-start-column="28" selection-end-line="266" selection-end-column="28" />
         </state>
       </provider>
     </entry>
