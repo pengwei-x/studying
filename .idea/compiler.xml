@@ -9,13 +9,15 @@
         <module name="demo" />
         <module name="springboot" />
         <module name="utils" />
+        <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="demo" target="8" />
+      <module name="demo" target="1.5" />
       <module name="springboot" target="1.8" />
-      <module name="studying" target="8" />
-      <module name="utils" target="8" />
+      <module name="studying" target="1.5" />
+      <module name="utils" target="1.5" />
+      <module name="web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
